@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stain Guard</string>
+    <string name="full_details">
+        Our project, developed as part of the IT41033 Nature-Inspired Algorithm course,is dedicated to fabric detection. Through our mobile application,
+        users can effortlessly upload images via the camera or import them from files.
+        Utilizing XML and Java for the mobile application, and Python for machine learning,
+        our team, consisting of K.G.R.Mileesha (IT2020104), H.B.M.C.K.Bandara (IT2020031), I.M.Wajith (IT2020032), J.Mila Dilshika (IT2020053), and R.Dilani (IT2020040),
+        has crafted an innovative solution for fabric analysis. Our app provides accurate stain detection of fabric,
+        catering to both consumer and professional textile inspection needs,
+        and exemplifying the application of advanced algorithms
+        in real-world scenarios.</string>
+</resources>
